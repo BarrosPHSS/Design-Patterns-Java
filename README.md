@@ -25,7 +25,6 @@ Em breve:
 
 ## 🛠️ Como rodar este projeto
 
-1. **Clone o repositório:**
 
 ```bash
 git clone https://github.com/seu-usuario/design-patterns-java.git
